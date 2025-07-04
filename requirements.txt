@@ -1,8 +1,6 @@
-tensorflow==2.19.0
-numpy
-pandas
-pillow
 streamlit
-matplotlib
-keras
+numpy
 opencv-python-headless
+tensorflow
+keras
+pillow
